@@ -1,0 +1,244 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* simonGameAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 388}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 473}";
+		};
+	};
+	1D3623250D0F684500981E51 /* simonGameAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 640}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{213, 653}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* simonGame */ = {
+		activeExec = 0;
+		executables = (
+			92377DBF12721ED800E963F4 /* simonGame */,
+		);
+	};
+	289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 395}}";
+			sepNavSelRange = "{372, 0}";
+			sepNavVisRange = "{0, 409}";
+		};
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1200}}";
+			sepNavSelRange = "{629, 0}";
+			sepNavVisRange = "{631, 663}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 896}}";
+			sepNavSelRange = "{705, 0}";
+			sepNavVisRange = "{403, 848}";
+		};
+	};
+	289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 5696}}";
+			sepNavSelRange = "{7279, 0}";
+			sepNavVisRange = "{6984, 407}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 92377DBF12721ED800E963F4 /* simonGame */;
+		activeSDKPreference = iphonesimulator3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* simonGame */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* simonGame */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 92377DD312721EF200E963F4 /* Code sense */;
+		executables = (
+			92377DBF12721ED800E963F4 /* simonGame */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					733,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310540479;
+			PBXWorkspaceStateSaveDate = 310540479;
+		};
+		perUserProjectItems = {
+			925372BA12723FC30021AAF4 /* PBXBookmark */ = 925372BA12723FC30021AAF4 /* PBXBookmark */;
+			925372BB12723FC30021AAF4 /* PBXTextBookmark */ = 925372BB12723FC30021AAF4 /* PBXTextBookmark */;
+			925372BC12723FC30021AAF4 /* PBXTextBookmark */ = 925372BC12723FC30021AAF4 /* PBXTextBookmark */;
+			9269E11C1279607500B3AB0B /* PBXTextBookmark */ = 9269E11C1279607500B3AB0B /* PBXTextBookmark */;
+			9269E11D1279607500B3AB0B /* PBXTextBookmark */ = 9269E11D1279607500B3AB0B /* PBXTextBookmark */;
+			926FE31D12827AB10045E774 /* PBXTextBookmark */ = 926FE31D12827AB10045E774 /* PBXTextBookmark */;
+			926FE31E12827AB10045E774 /* PBXTextBookmark */ = 926FE31E12827AB10045E774 /* PBXTextBookmark */;
+			926FE33F12827CA90045E774 /* PBXTextBookmark */ = 926FE33F12827CA90045E774 /* PBXTextBookmark */;
+			926FE34D12827D700045E774 /* PBXTextBookmark */ = 926FE34D12827D700045E774 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 92377DD212721EF200E963F4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	92377DBF12721ED800E963F4 /* simonGame */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = simonGame;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	92377DD212721EF200E963F4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	92377DD312721EF200E963F4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	92377DD81272205500E963F4 /* simongameConstants.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 720}}";
+			sepNavSelRange = "{1400, 0}";
+			sepNavVisRange = "{450, 950}";
+		};
+	};
+	925372BA12723FC30021AAF4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 92377DE51272288400E963F4 /* ABC.jpg */;
+	};
+	925372BB12723FC30021AAF4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 16";
+		rLen = 0;
+		rLoc = 372;
+		rType = 0;
+		vrLen = 409;
+		vrLoc = 0;
+	};
+	925372BC12723FC30021AAF4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 25";
+		rLen = 0;
+		rLoc = 629;
+		rType = 0;
+		vrLen = 663;
+		vrLoc = 631;
+	};
+	9269E11C1279607500B3AB0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* simonGameAppDelegate.h */;
+		name = "simonGameAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 473;
+		vrLoc = 0;
+	};
+	9269E11D1279607500B3AB0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* simonGameAppDelegate.m */;
+		name = "simonGameAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 653;
+		vrLoc = 213;
+	};
+	926FE31D12827AB10045E774 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */;
+		name = "FlipsideViewController.h: 30";
+		rLen = 0;
+		rLoc = 705;
+		rType = 0;
+		vrLen = 848;
+		vrLoc = 403;
+	};
+	926FE31E12827AB10045E774 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 92377DD81272205500E963F4 /* simongameConstants.h */;
+		name = "simongameConstants.h: 45";
+		rLen = 0;
+		rLoc = 1400;
+		rType = 0;
+		vrLen = 950;
+		vrLoc = 450;
+	};
+	926FE33F12827CA90045E774 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */;
+		name = "FlipsideViewController.m: 310";
+		rLen = 0;
+		rLoc = 7973;
+		rType = 0;
+		vrLen = 518;
+		vrLoc = 8136;
+	};
+	926FE34D12827D700045E774 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */;
+		name = "FlipsideViewController.m: 268";
+		rLen = 0;
+		rLoc = 7279;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 6984;
+	};
+}
